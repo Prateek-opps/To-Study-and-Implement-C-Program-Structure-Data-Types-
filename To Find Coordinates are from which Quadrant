@@ -18,3 +18,8 @@
             cout<<"4th quadrant"<<endl;}
             return 0;
         }
+/*Output:-
+Enter x: 54
+Enter y: 65
+1st quadrant
+*/
