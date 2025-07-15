@@ -14,3 +14,8 @@ int main() {
 
     cout << "Average: " << average << "%\nGrade: " << grade << endl;
     return 0;}
+/*Output:-
+Enter marks for 3 subjects: 32,65,76
+Average: 10.6667%
+Grade: F
+*/
